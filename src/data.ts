@@ -158,7 +158,7 @@ export const MVP_CANDIDATES: MvpCandidate[] = [
     position: "Running Back",
     category: "Offense",
     statsSummary: "578 rushing yards • 9 rushing TDs • 6.6 yards per carry • 56 total points",
-    narrative: "Kendra Gabriel served as the offensive focal point who propelled the Atlanta Truth to a playoff seed with a 4-2 record, before finishing the overall campaign at 4-3 following their postseason appearance. She secured the league's second-highest rushing total with 578 yards, while her nine touchdowns on the ground tied for second in the WNFC. Generating a strong 6.6 yards per rush, Gabriel's explosive style consistently kept opposing defenses off-balance. Her capacity to control the tempo of the game while retaining big-play potential made Atlanta one of the most complete and formidable rosters in the Eastern Conference.",
+    narrative: "Kendra Gabriel served as the offensive focal point who propelled the Atlanta Truth to a playoff seed with a 4-2 record. She secured the league's second-highest rushing total with 578 yards, while her nine touchdowns on the ground tied for second in the WNFC. Generating a strong 6.6 yards per rush, Gabriel's explosive style consistently kept opposing defenses off-balance. Her capacity to control the tempo of the game while retaining big-play potential made Atlanta one of the most complete and formidable rosters in the Eastern Conference.",
     keyStats: [
       { label: "Rushing Yards", value: 578, percentOfMax: 82 },
       { label: "Rushing TDs", value: 9, percentOfMax: 81 },
@@ -189,13 +189,13 @@ export const MVP_CANDIDATES: MvpCandidate[] = [
     logoUrl: "https://www.hostedlogos.com/football/wnfc/Glory_logo_large.png",
     position: "Multi-Position Star",
     category: "Offense", // Classified under offense but plays defense too!
-    statsSummary: "2 TDs in playoff game • 1 FF • 1 FR • Dynamic multi-position playmaker",
-    narrative: "Kassidy Snowden emerged as the most dynamic and versatile player in the WNFC playoffs, playing quarterback, running back, and defensive back for Kansas City. In their playoff game against the Utah Falconz, she put on an absolute clinic, scoring two touchdowns and pacing the defense with a crucial forced fumble and a recovery. Snowden's ability to impact the game in multiple phases showcases why she's one of the most explosive athletes in women's football. Her willingness to play wherever the team needs her and make game-changing plays on both sides of the ball puts her squarely in the MVP conversation.",
+    statsSummary: "7 regular-season TDs • 5 INTs • 52 combined tackles • 375 total return yards",
+    narrative: "Kassidy Snowden engineered a historic, multi-phase regular season, putting up extraordinary statistical lines for the Kansas City Glory across all three units of the game. Showing rare athletic versatility, she scored seven total touchdowns in several distinct ways: two rushing scores, two interception returns, two kickoff returns, and one punt return. Defensively, she was a relentless force on the field, logging 52 tackles, forcing a fumble, and leading the team with five crucial takeaways. She followed this up with a heroic postseason performance against the Utah Falconz, stepping under center to score both of Kansas City's touchdowns while registering a critical forced fumble and recovery on defense, cementing her status as one of the most uniquely impactful players in WNFC history.",
     keyStats: [
-      { label: "Playoff Game TDs", value: 2, percentOfMax: 100 },
-      { label: "Forced Fumbles (FF)", value: 1, percentOfMax: 100 },
-      { label: "Fumble Recoveries (FR)", value: 1, percentOfMax: 100 },
-      { label: "Positions Played", value: "3+", percentOfMax: 100 }
+      { label: "Total Season Touchdowns", value: 7, percentOfMax: 100 },
+      { label: "Interceptions", value: 5, percentOfMax: 100 },
+      { label: "Combined Tackles", value: 52, percentOfMax: 85 },
+      { label: "Kick Return Yards", value: 245, percentOfMax: 100 }
     ]
   }
 ];
