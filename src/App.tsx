@@ -7,6 +7,7 @@ import MvpCandidates from "./components/MvpCandidates";
 import WfaProStandings from "./components/WfaProStandings";
 import { Mail, Send, Check, Heart, HelpCircle, Newspaper, MessageSquare } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
+import coverPhoto from "./assets/images/cover.jpg";
 
 export default function App() {
   const [activeSection, setActiveSection] = useState("bracket");
@@ -96,7 +97,7 @@ export default function App() {
             {/* Article Poster Image inside */}
             <div className="lg:col-span-7 bg-[#1A1A1A] relative group overflow-hidden flex items-center justify-center min-h-[250px] sm:min-h-[440px]">
               <img 
-                src="/src/assets/images/cover.jpg" 
+                src={coverPhoto} 
                 alt="WNFC Championship Matchup: Rebellion vs. Spartans" 
                 className="w-full h-full object-cover max-h-[500px]"
                 referrerPolicy="no-referrer"
