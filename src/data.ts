@@ -158,7 +158,7 @@ export const MVP_CANDIDATES: MvpCandidate[] = [
     position: "Running Back",
     category: "Offense",
     statsSummary: "578 rushing yards • 9 rushing TDs • 6.6 yards per carry • 56 total points",
-    narrative: "Kendra Gabriel served as the offensive focal point who propelled the Atlanta Truth to a playoff seed with a 4-3 record. She secured the league's second-highest rushing total with 578 yards, while her nine touchdowns on the ground tied for second in the WNFC. Generating a strong 6.6 yards per rush, Gabriel's explosive style consistently kept opposing defenses off-balance. Her capacity to control the tempo of the game while retaining big-play potential made Atlanta one of the most complete and formidable rosters in the Eastern Conference.",
+    narrative: "Kendra Gabriel served as the offensive focal point who propelled the Atlanta Truth to a playoff seed with a 4-2 record, before finishing the overall campaign at 4-3 following their postseason appearance. She secured the league's second-highest rushing total with 578 yards, while her nine touchdowns on the ground tied for second in the WNFC. Generating a strong 6.6 yards per rush, Gabriel's explosive style consistently kept opposing defenses off-balance. Her capacity to control the tempo of the game while retaining big-play potential made Atlanta one of the most complete and formidable rosters in the Eastern Conference.",
     keyStats: [
       { label: "Rushing Yards", value: 578, percentOfMax: 82 },
       { label: "Rushing TDs", value: 9, percentOfMax: 81 },
@@ -250,8 +250,8 @@ export const WFA_TEAMS: WfaTeam[] = [
     pointDiff: 86,
     nextMatch: "vs Tampa Bay Inferno (June 13)",
     details: "Amanda Congialdi (QB): 1,273 yards, 15 TD, 114.9 rating. Navia Howell (WR): 447 yards, 8 TD (WFA leading receiver). #1 in WFA total offense (2,084 yards).",
-    statsSummary: "Three-time WFA Champions with the #1 ranked offense in the league.",
-    narrative: "Holding a strong 4-1 record, the D.C. Divas continue to exhibit the composure of their storied championship legacy. Masterful quarterback Amanda Congialdi is orchestrating a legendary campaign with 1,273 yards, 15 touchdowns, and a league-leading 114.9 passer rating. Wideout Navia Howell anchors the passing attack as the league's premier receiver, pushing the team to the top spots in absolute yardage. Able to outpace team defenses in any vertical track, the Divas possess both the scoring firepower and late-postseason experience to mount another serious title run."
+    statsSummary: "Two-time WFA Champions (Three National Titles Overall) with the #1 ranked offense in the league.",
+    narrative: "Holding a strong 4-1 record, the D.C. Divas continue to exhibit the composure of their storied championship legacy, including two WFA national championships and three national titles overall (with their first secured in the NWFA). Masterful quarterback Amanda Congialdi is orchestrating a legendary campaign with 1,273 yards, 15 touchdowns, and a league-leading 114.9 passer rating. Wideout Navia Howell anchors the passing attack as the league's premier receiver, pushing the team to the top spots in absolute yardage. Able to outpace team defenses in any vertical track, the Divas possess both the scoring firepower and late-postseason experience to mount another serious title run."
   },
   {
     rank: 5,

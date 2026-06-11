@@ -5,7 +5,7 @@ import { motion, AnimatePresence } from "motion/react";
 import { Award, ChevronRight, Share2, Heart } from "lucide-react";
 
 export default function PlayoffBracket() {
-  const [activeConference, setActiveConference] = useState<"Eastern" | "Western">("Eastern");
+  const [activeConference, setActiveConference] = useState<"Eastern" | "Western">("Western");
   const [selectedGame, setSelectedGame] = useState<PlayoffGame | null>(null);
   const [copiedGameId, setCopiedGameId] = useState<string | null>(null);
   const [favorites, setFavorites] = useState<string[]>(() => {
@@ -53,6 +53,16 @@ export default function PlayoffBracket() {
       {/* Conference Toggles - Architectural layout */}
       <div className="flex border border-black/15 p-1 mb-8 max-w-md mx-auto bg-[#F2F0EA]/50">
         <button
+          onClick={() => setActiveConference("Western")}
+          className={`flex-1 py-2.5 text-[10px] font-mono uppercase tracking-[0.2em] transition-all cursor-pointer rounded-none ${
+            activeConference === "Western"
+               ? "bg-[#1A1A1A] text-white font-bold"
+               : "text-gray-600 hover:text-[#1A1A1A] hover:bg-black/5"
+          }`}
+        >
+          Western Conference
+        </button>
+        <button
           onClick={() => setActiveConference("Eastern")}
           className={`flex-1 py-2.5 text-[10px] font-mono uppercase tracking-[0.2em] transition-all cursor-pointer rounded-none ${
             activeConference === "Eastern"
@@ -61,16 +71,6 @@ export default function PlayoffBracket() {
           }`}
         >
           Eastern Conference
-        </button>
-        <button
-          onClick={() => setActiveConference("Western")}
-          className={`flex-1 py-2.5 text-[10px] font-mono uppercase tracking-[0.2em] transition-all cursor-pointer rounded-none ${
-            activeConference === "Western"
-              ? "bg-[#1A1A1A] text-white font-bold"
-              : "text-gray-600 hover:text-[#1A1A1A] hover:bg-black/5"
-          }`}
-        >
-          Western Conference
         </button>
       </div>
 
