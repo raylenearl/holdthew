@@ -269,7 +269,7 @@ export default function PlayoffBracket() {
 
               {/* Recap Narrative Text */}
               <div className="font-serif text-sm sm:text-base leading-relaxed text-gray-800 space-y-4 max-h-[35vh] overflow-y-auto pr-3 border-l border-black/10 pl-6 text-justify">
-                <p>{selectedGame.recapText || "A comprehensive defensive battle characterized by high physical intensity."}</p>
+                <p className="whitespace-pre-line">{selectedGame.recapText || "A comprehensive defensive battle characterized by high physical intensity."}</p>
               </div>
 
               {/* Modal controls and bookmarks */}

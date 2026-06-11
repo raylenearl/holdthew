@@ -82,8 +82,8 @@ export const PLAYOFF_GAMES: PlayoffGame[] = [
     winner: "Utah Falconz",
     date: "June 5, 2026",
     recapTitle: "Falconz Outlast Glory in High-Scoring Drama",
-    recapSubtitle: "Triple option offense powers Utah to next round",
-    recapText: "The Utah Falconz leaned heavily on their signature triple-option physical running scheme to outlast the Kansas City Glory in a 22-19 offensive slugfest. Kansas City was led by explosive plays from running back Maria Fautali, who broke free for two long touchdowns. However, Utah's methodical clock control, combined with a crucial fourth-quarter intercept, allowed the Falconz to grind out the final minutes and advance to the Western Championship against the San Diego Rebellion."
+    recapSubtitle: "If Game One was about control, Game Two was pure chaos.",
+    recapText: "While the first matchup of the Western Semifinals was a story of methodical control, the showdown between the Utah Falconz and the Kansas City Glory erupted into unvarnished football drama. In a breathtaking 22-19 duel decided in the final minute, Utah survived a legendary performance from Kansas City multi-threat playmaker Kassidy Snowden to secure their spot in the Western Conference Championship.\n\nThroughout the evening, Snowden was virtually unstoppable. Pivoting seamlessly between quarterback and defensive configurations, she carried the Glory on her shoulders, scoring both of Kansas City's touchdowns. Beyond her offensive output, she served as the backbone of the Kansas City defense and verified her reputation as one of the most explosive athletes in women's football.\n\nWith starting quarterback Lydia Morgan sidelined due to injury, veteran general Louise Bean took the reins of Utah's triple-option offense. The Falconz leaned on their classic formula: controlling time of possession and grinding out physical yards with star running back Gina Mondragon.\n\nUtah's defensive front deserves massive credit for neutralizing the league's leading rusher, Maria Fautali. The Falconz consistently swarmed Fautali, keeping her out of the end zone all night.\n\nImpact plays on defense swing the momentum early. Late in the second quarter, Snowden forced and recovered a crucial Falconz fumble to halt a deep Utah drive, translating the momentum into a major red-zone threat that kept the Glory close at halftime.\n\nUltimately, Utah's aggressive choice to seek two-point conversions instead of kicks made the ultimate difference, adding critical points that decided the final margin.\n\nIn the second half, Brenna Morris took under-center detail before Snowden returned to the Wildcat formation to make a late-game statements. Snowden punched in a score in the third quarter, then crossed the goal line again with only 3:32 remaining in the game to pull the Glory ahead 19-14.\n\nFacing elimination, the Falconz engineered a legendary final drive. Marched deep into the red zone with under a minute on the clock, Utah executed a sensational hook-and-lateral trick play that went the distance, driving the McCarthey Stadium crowd into a frenzy. Another successful two-point conversion established Utah's 22-19 lead.\n\nWith one final chance for a Kansas City miracle, freshman defensive back Bergen Meyer stepped up for Utah, snatching her second interception of the night to seal the win and trigger a wild Falconz celebration."
   },
   // WESTERN CHAMPIONSHIP
   {
@@ -190,12 +190,12 @@ export const MVP_CANDIDATES: MvpCandidate[] = [
     logoUrl: "https://www.hostedlogos.com/football/wnfc/Glory_logo_large.png",
     position: "Multi-Position Star",
     category: "Offense", // Classified under offense but plays defense too!
-    statsSummary: "3 TDs in playoff game • 52-yard punt return TD • 85-yard kickoff return TD • Dynamic playmaker",
-    narrative: "Kassidy Snowden emerged as the most dynamic and versatile player in the WNFC playoffs, playing quarterback, running back, and defensive back for Kansas City while scoring three touchdowns in a single playoff game against the Utah Falconz. Snowden's ability to impact the game in multiple ways—including a 52-yard punt return touchdown and an 85-yard kickoff return for a score—showcases why she's one of the most explosive athletes in women's football. Her willingness to play wherever the team needs her and her ability to make game-changing plays puts her in the MVP conversation.",
+    statsSummary: "2 TDs in playoff game • 1 FF • 1 FR • Dynamic multi-position playmaker",
+    narrative: "Kassidy Snowden emerged as the most dynamic and versatile player in the WNFC playoffs, playing quarterback, running back, and defensive back for Kansas City. In their playoff game against the Utah Falconz, she put on an absolute clinic, scoring two touchdowns and pacing the defense with a crucial forced fumble and a recovery. Snowden's ability to impact the game in multiple phases showcases why she's one of the most explosive athletes in women's football. Her willingness to play wherever the team needs her and make game-changing plays on both sides of the ball puts her squarely in the MVP conversation.",
     keyStats: [
-      { label: "Single-Game Playoff TDs", value: 3, percentOfMax: 100 },
-      { label: "Punt Return Yards", value: 52, percentOfMax: 100 },
-      { label: "Kickoff Return Yards", value: 85, percentOfMax: 100 },
+      { label: "Playoff Game TDs", value: 2, percentOfMax: 100 },
+      { label: "Forced Fumbles (FF)", value: 1, percentOfMax: 100 },
+      { label: "Fumble Recoveries (FR)", value: 1, percentOfMax: 100 },
       { label: "Positions Played", value: "3+", percentOfMax: 100 }
     ]
   }
