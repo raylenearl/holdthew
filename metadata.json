@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Hold The W",
+  "description": "An interactive digital newspaper and playoff tracker for Women\u0027s Football, featuring brackets, MVP voting, and game recaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
