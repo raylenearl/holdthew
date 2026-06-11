@@ -24,7 +24,7 @@ export const PLAYOFF_GAMES: PlayoffGame[] = [
     date: "June 4, 2026",
     recapTitle: "Spartans Overwhelm Truth Behind Dominant Defense",
     recapSubtitle: "Texas physical front controls the line of scrimmage",
-    recapText: "The defending IX Cup champion Texas Elite Spartans wasted no time reminding the league why they're the team to beat, dominating Atlanta 27-6. The Spartans jumped out to an early lead behind star running back Tara \"Turbo\" Thomas, who sliced through the Atlanta defense on a shifty touchdown run. Texas quickly established that this battle would be won in the trenches, with the physical and athletic offensive line controlling the line of scrimmage from the opening whistle. The Texas defense was relentless, overwhelming Atlanta's offense and forcing turnovers and punts. The Spartans' defense smothered every attempt by the Truth to gain momentum, helping Texas build a commanding 21-0 first-half lead. With the victory, Texas advanced to the Eastern Conference Championship."
+    recapText: "The reigning IX Cup champions, the Texas Elite Spartans, sent a clear signal to the rest of the league with a commanding 27-6 victory over the Atlanta Truth. Texas took early control when star ball-carrier Tara \"Turbo\" Thomas broke free with an elusive run into the end zone. Right from the opening whistle, the Spartans dictated the tempo upfront, as their explosive offensive line dominated the line of scrimmage. Meanwhile, the Texas defensive wall proved impenetrable, smothering Atlanta's offensive schemes to force a series of punts and key turnovers. Holding a decisive 21-0 advantage by halftime, the Spartans never let the Truth find their footing, comfortably securing their spot in the Eastern Conference Championship."
   },
   {
     id: "east-semi-2",
@@ -38,7 +38,7 @@ export const PLAYOFF_GAMES: PlayoffGame[] = [
     date: "June 4, 2026",
     recapTitle: "Prodigy Snaps Forward in One-Point Nailbiter",
     recapSubtitle: "Washington holds off late Panthers touchdown surge",
-    recapText: "In a spectacular defensive trade-off, the Washington Prodigy held off a late fourth-quarter rally by the Mississippi Panthers to secure a 14-13 victory. The Prodigy utilized a clock-draining ground attack and timely passing to build a slim lead. Mississippi responded with a dramatic deep driving touchdown with under a minute left, but the crucial extra-point attempt sailed wide, sealing the victory for Washington and booking their spot in the conference title match."
+    recapText: "A high-stakes defensive battle ended in dramatic fashion as the Washington Prodigy withstood a fierce fourth-quarter comeback by the Mississippi Panthers to register a tense 14-13 win. The Prodigy established their narrow lead through a clock-chewing rushing game complemented by efficient, timely throws under pressure. The Panthers answered with an intense, late-game drive that culminated in a spectacular touchdown with less than a minute left on the clock. However, a missed extra point proved devastating, preserving Washington's slim edge and punching their ticket to the Eastern Conference title clash."
   },
   // EASTERN CHAMPIONSHIP
   {
@@ -53,9 +53,8 @@ export const PLAYOFF_GAMES: PlayoffGame[] = [
     date: "June 6, 2026",
     recapTitle: "Spartans Dominate Prodigy in Eastern Title Clash",
     recapSubtitle: "Texas punches 7th straight ticket to IX Cup Final",
-    recapText: "In a dominant performance, the Texas Elite Spartans overwhelmed the Washington Prodigy 33-6 to secure their 7th straight berth in the IX Cup Championship Game. The Spartans' defense was relentless from start to finish, holding the Prodigy to a season-low six points. Texas established control early and never relinquished it, with quarterback Michelle Angel continuing her stellar postseason run. The Spartans' defense, led by Whitney Palmer and the defensive line, consistently disrupted Washington's offensive rhythm and forced multiple turnovers. Despite Washington's efforts, the Prodigy simply couldn't match the intensity and execution of the defending champions. With the victory, Texas advanced to the championship game at 8-0, remaining undefeated through the entire season and postseason."
+    recapText: "With a masterclass performance on both sides of the ball, the undefeated Texas Elite Spartans overpowered the Washington Prodigy 33-6 to earn their seventh consecutive trip to the IX Cup Championship. The formidable Texas defense set the tone early, stifling Washington's attack to allow a mere six points all game. Under center, quarterback Michelle Angel executed the offensive script with poise and precision, maintaining her spectacular playoff momentum. On the other side of the ball, standout defender Whitney Palmer spearheaded a defensive line that relentlessly disrupted the Prodigy's system and generated multiple takeaways. Texas extends their perfect record to 8-0 on the year, entering the national stage with complete confidence."
   },
-
   // WESTERN SEMIFINALS
   {
     id: "west-semi-1",
@@ -69,7 +68,7 @@ export const PLAYOFF_GAMES: PlayoffGame[] = [
     date: "June 5, 2026",
     recapTitle: "Rebellion Dominates in Shutout Statement Victory",
     recapSubtitle: "San Diego defense suffocates Legends' offensive gameplan",
-    recapText: "San Diego announced itself as the team to beat with a devastating shutout victory over the Los Angeles Legends. The Rebellion's defense was suffocating from the opening whistle, completely shutting down the Legends' offense. On a pivotal third-and-short near the goal line on their first drive, quarterback Danny Trainor escaped a sure sack and improvised one of the most exciting plays of the postseason, flipping the ball to Kez Wesley who powered into the end zone. All-Pro kicker Jocelyn Charette added a 36-yard field goal as San Diego built a 10-0 halftime lead. The second half belonged entirely to the Rebellion defense. San Diego's defensive front, led by star playmaker Brittani Lusain, controlled the line of scrimmage and bottled up the Legends. The Rebellion continued to attack in all phases, including a spectacular punt return touchdown by Alicia Zappia-Neeley. Balanced offense. Dominant defense. Special teams excellence. San Diego checked every box."
+    recapText: "The San Diego Rebellion delivered a loud and clear message to the competition by putting on a clinic in a 30-0 shutout of the Los Angeles Legends. From the first snap, the Rebellion's defensive unit gave the Legends zero breathing room. San Diego sparked of their first possession with highlight-reel magic: on a critical third-and-short near the goal line, quarterback Danny Trainor broke free from a collapsing pocket to toss an off-balance flip to Kez Wesley for the opening touchdown. Jocelyn Charette's accurate 36-yard field goal pushed the halftime margin to 10-0. The final two quarters belonged to the San Diego stop-unit, with star playmaker Brittani Lusain fronting a defensive line that completely dominated the trenches. Special teams chimed in with a touchdown of their own as Alicia Zappia-Neeley ran back a brilliant punt return, capping an absolute complete-team victory."
   },
   {
     id: "west-semi-2",
@@ -98,7 +97,7 @@ export const PLAYOFF_GAMES: PlayoffGame[] = [
     date: "June 7, 2026",
     recapTitle: "Rebellion Shuts Out Falconz in Physical Battle",
     recapSubtitle: "San Diego secondary forces critical turnovers to block Utah",
-    recapText: "In a defensive slugfest worthy of a championship game, the San Diego Rebellion suffocated the Utah Falconz offense to win 20-0 and punch their ticket to the IX Cup. The first half was defined by turnovers and forced punts, with both defenses trading blows. San Diego struck first behind All-Pro kicker Jocelyn Charette's 43-yard field goal. Just before halftime, Rebellion quarterback Danny Trainor engineered a critical red-zone drive and capped it with a quarterback keeper to extend the lead to 10-0. The defining moment came early in the second half when Katie Claxton stepped in front of a Falconz pass and returned it for a Pick-9, extending the lead to 20-0. The Rebellion defense, led by defensive lineman Sabrina Kessler and linebacker duo Brittani Lusain and Katie Claxton, consistently disrupted the Falconz's triple option rhythm. Utah repeatedly moved the ball into scoring position only to see drives end with turnovers. San Diego's suffocating defense earned them a championship berth."
+    recapText: "In an intense defensive showcase, the San Diego Rebellion completely silenced the Utah Falconz to log a 20-0 shutout victory, securing their spot in the IX Cup. The opening half unfolded as a physical duel of punts and turnovers, with both groups trading heavy blows. The Rebellion broke the stalemate when All-Pro specialist Jocelyn Charette converted a long 43-yard field goal. Shortly before the break, quarterback Danny Trainor sustained a critical drive with his feet, finding the goal line on a clutch keeper to establish a 10-0 lead. The game-defining sequence unfolded in the third quarter when defender Katie Claxton read a Falconz throw, catching an interception and taking it all the way back for a spectacular Pick-9. Backed by defensive lineman Sabrina Kessler and the dominant linebacking partnership of Brittani Lusain and Claxton, San Diego routinely neutralized Utah's triple-option game plan to preserve the clean sheet."
   }
 ];
 
@@ -111,7 +110,7 @@ export const MVP_CANDIDATES: MvpCandidate[] = [
     position: "Linebacker",
     category: "Defense",
     statsSummary: "86 combined tackles • 27 solo • 59 assists • 4 TFL • NEW WNFC RECORD",
-    narrative: "Leilani Caamal shattered the WNFC single-season tackles record with 86 combined stops through just six games, obliterating the previous mark of 73. Caamal averaged over 14 tackles per game, an almost incomprehensible number that speaks to both her individual dominance and her presence on every single play. She became the heartbeat of Golden State's defense, recording double-digit tackles in multiple games and never finishing below eight. Caamal's record-breaking performance and relentless consistency make her a legitimate MVP candidate despite her team falling short of the playoffs.",
+    narrative: "Leilani Caamal put on an historic defensive showcase by amassing 86 combined tackles in just six games, shattering the previous single-season WNFC record of 73. Maintaining an astonishing average of over 14 tackles a game, Caamal was present on virtually every defensive snap for the Golden State Storm. She anchored the defensive unit as its emotional and physical anchor, delivering double-digit tackle marks across several contests and never dropping below eight. Although her team missed out on a postseason berth, her unmatched work rate and history-making season keep her firmly in the MVP spotlight.",
     keyStats: [
       { label: "Combined Tackles", value: 86, percentOfMax: 100 },
       { label: "Solo Tackles", value: 27, percentOfMax: 90 },
@@ -127,7 +126,7 @@ export const MVP_CANDIDATES: MvpCandidate[] = [
     position: "Quarterback",
     category: "Offense",
     statsSummary: "621 passing yards • 13 TDs • 3 INTs • 99.3 rating • 8-0 record",
-    narrative: "The unquestioned leader of the only undefeated team in the WNFC, Michelle Angel orchestrated the most dominant season in recent league history. Angel's 13 touchdown passes against just three interceptions showcase her exceptional decision-making and precision, while her 99.3 passer rating leads all quarterbacks. More importantly, she never lost a game. Texas outscored opponents 216-30 this season, and Angel was the steady hand guiding that historic offense. She enters the championship unshakeable, having proven week after week that she's the most valuable player on the most valuable team.",
+    narrative: "As the elite general driving the league's remaining undefeated franchise, quarterback Michelle Angel engineered an incredibly clean and dominant regular season campaign. She racked up 13 touchdowns against just three interceptions, confirming her elite vision and decision-making while pacing all signal-callers with an amazing 99.3 passer rating. Under her guidance, the Texas offense outscored league opponents by a massive 216-30 margin. Angel remains exceptionally poised under pressure, establishing herself week in and week out as the centerpiece of a historic championship bid.",
     keyStats: [
       { label: "Passing TDs", value: 13, percentOfMax: 100 },
       { label: "Passing Yards", value: 621, percentOfMax: 85 },
@@ -143,7 +142,7 @@ export const MVP_CANDIDATES: MvpCandidate[] = [
     position: "Running Back",
     category: "Offense",
     statsSummary: "666 rushing yards • 11 rushing TDs • 9.7 yards per carry • 74 total points",
-    narrative: "Maria Fautali didn't just lead the league in rushing touchdowns and total points—she redefined what explosive rushing looks like in the WNFC. Her 9.7 yards per carry average is simply staggering, and her 11 rushing touchdowns showcase a rare combination of big-play ability and goal-line dominance. Fautali's 74 total points led all players, and she added four two-point conversions to her résumé. Kansas City's entire offensive identity revolves around Fautali's ability to break games open with one carry, and she delivered all season long.",
+    narrative: "Maria Fautali set a new standard for ground attacks in the WNFC, claiming the league's top spot in both rushing touchdowns and total points. Her outstanding average of 9.7 yards per carry is testament to her game-breaking speed, while her 11 rushing scores demonstrate a perfect blend of agility and short-yardage power. Scoring a league-high 74 points and contributing four successful two-point runs, Fautali served as the dynamic engine of the Kansas City Glory offense, capable of turning any handoff into a highlight-reel score.",
     keyStats: [
       { label: "Rushing Yards", value: 666, percentOfMax: 94 },
       { label: "Rushing TDs", value: 11, percentOfMax: 100 },
@@ -159,7 +158,7 @@ export const MVP_CANDIDATES: MvpCandidate[] = [
     position: "Running Back",
     category: "Offense",
     statsSummary: "578 rushing yards • 9 rushing TDs • 6.6 yards per carry • 56 total points",
-    narrative: "Kendra Gabriel was the engine that powered Atlanta to a 4-3 record and the #4 seed in the Eastern Conference playoffs. Her 578 rushing yards ranked second in the league, and her nine rushing touchdowns tied for second-most in the WNFC. Gabriel's 6.6 yards per carry demonstrates her explosive running style and ability to turn every touch into a potential big play. Atlanta's offense ran through Gabriel all season, and her ability to control the clock while also striking quickly made the Truth one of the most balanced teams in football.",
+    narrative: "Kendra Gabriel served as the offensive focal point who propelled the Atlanta Truth to a playoff seed with a 4-3 record. She secured the league's second-highest rushing total with 578 yards, while her nine touchdowns on the ground tied for second in the WNFC. Generating a strong 6.6 yards per rush, Gabriel's explosive style consistently kept opposing defenses off-balance. Her capacity to control the tempo of the game while retaining big-play potential made Atlanta one of the most complete and formidable rosters in the Eastern Conference.",
     keyStats: [
       { label: "Rushing Yards", value: 578, percentOfMax: 82 },
       { label: "Rushing TDs", value: 9, percentOfMax: 81 },
@@ -175,7 +174,7 @@ export const MVP_CANDIDATES: MvpCandidate[] = [
     position: "Defensive End",
     category: "Defense",
     statsSummary: "7.5 sacks • 12.5 TFL • 7 QB pressures • League sack leader",
-    narrative: "Whitney Palmer terrorized opposing quarterbacks all season, finishing with a league-leading 7.5 sacks and seven quarterback pressures. Palmer was the centerpiece of a Texas defense that allowed just 30 points all season—by far the best mark in the WNFC. Her ability to wreck game plans and force opposing offenses into uncomfortable situations was critical to the Spartans' perfect 8-0 record. Palmer recorded at least half a sack in four of six games, showcasing remarkable consistency and relentless motor. She's one of the best pure pass rushers in women's football.",
+    narrative: "Whitney Palmer was a constant force in opponents' backfields, leading the WNFC with 7.5 sacks alongside seven quarterback hurries. As the main playmaker in a Texas defense that limited opponents to a league-best 30 total points all year, her pass-rushing skills consistently forced quarterbacks into costly mistakes. Palmer registered a sack contribution in four out of six regular season appearances, proving crucial to the Spartans' flawless 8-0 run. She continues to demonstrate why she ranks among the most feared edge rushers in women's tackle football.",
     keyStats: [
       { label: "Sacks", value: 7.5, percentOfMax: 100 },
       { label: "Tackles For Loss", value: 12.5, percentOfMax: 100 },
@@ -213,7 +212,7 @@ export const WFA_TEAMS: WfaTeam[] = [
     nextMatch: "vs Cali War (June 13)",
     details: "Laura Goetz (QB/DB): 119 rating, 14 TD/1 INT at QB; 6 INT (2 TD) on Defense. Sam Gordon (RB): 625 rushing yards, 7 TD. Lexy Ronning (WR): 307 yards, 9 TD.",
     statsSummary: "Allows just 6.4 points per game. Dominant on both sides of the ball.",
-    narrative: "Salt Lake City dominates WFA PRO with a perfect 5-0 record and the league's most dominant defense, allowing just 6.4 points per game. The Wildcats have scored 265 points while holding opponents to just 32, a +233 point differential that's historically impressive. Two-way star Laura Goetz leads on both sides of the ball: at quarterback she has a 119 passer rating with 14 TDs and just 1 INT, while on defense she leads the league with 6 interceptions (104 return yards, 2 TDs). Running back Sam Gordon (625 rushing yards, 7 TDs) anchors the ground game, while receiver Lexy Ronning (307 yards, 9 TDs) provides explosive playmaking. Salt Lake City is the clear favorite to represent the American Conference in the National Championship Game."
+    narrative: "Sustaining a flawless 5-0 standing, Salt Lake City stands at the pinnacle of WFA PRO backed by a historic defensive unit that concedes only 6.4 points per game. With a massive +233 scoring variance, the Wildcats have piled on 265 points while giving up a microscopic 32. Multi-position icon Laura Goetz dictates terms globally; as quarterback she sports a stellar 119 rating with 14 touchdowns to just one pick, while simultaneously leading the league with six defensive interceptions. The rushing load is carried by Sam Gordon (625 yards, 7 TDs), complemented by receiver Lexy Ronning's playmaking. SLC enters the late-season bracket as the overwhelming candidate to win the American Conference."
   },
   {
     rank: 2,
@@ -226,7 +225,7 @@ export const WFA_TEAMS: WfaTeam[] = [
     nextMatch: "vs Indiana Valor (June 13)",
     details: "Jaime Gaal (QB): 485 yards, 5 TD offense. Kinnuady Daniels: 14 QB pressures. Derby City Dynamite blowout margin: 62-20.",
     statsSummary: "Back-to-back defending champions averaging 13.8 points allowed per game.",
-    narrative: "The back-to-back defending WFA Champions prove they still belong by dominating Derby City Dynamite 62-20 in Week 7, improving to 4-1. St. Louis has a defensive-minded approach that keeps them competitive, ranking 4th in points allowed at 13.8 per game. Quarterback Jaime Gaal leads the offense with 485 passing yards and 5 touchdowns, while linebacker Kinnuady Daniels leads all players with 14 QB pressures. Their championship experience and proven ability to win in high-pressure situations make them perennial contenders who nobody wants to face in January."
+    narrative: "The twice-consecutive reigning champions made a powerful statement in Week 7 by dismantling the Derby City Dynamite 62-20, elevating their record to 4-1. Adopting a tough, defensive posture, St. Louis ranks fourth overall by yielding mere 13.8 points a game. Competent commander Jaime Gaal manages the passing attack with 485 yards and five touchdowns, while defensive anchor Kinnuady Daniels applies relentless pressure off the edge with 14 quarterback hurries. Bolstered by title-winning poise and late-season execution, the Slam remain a feared playoff draw."
   },
   {
     rank: 3,
@@ -239,7 +238,7 @@ export const WFA_TEAMS: WfaTeam[] = [
     nextMatch: "Completed Regular Season",
     details: "Erin Kelley (QB): 17 TD, 92.2 rating. Jacqueline Radford (WR): 342 yards, 8 TD. Paige Kuplic (RB): 481 yards, 6 TD. Britt Peterson: 185 punt return yards, 1 TD.",
     statsSummary: "One of the most explosive offenses in WFA history with 43.6 PPG.",
-    narrative: "The Minnesota Vixen proved they can compete with anyone by dominating Tampa Bay 55-21 in Week 7 to improve to 5-1. With 262 points scored through six games, the Vixen have one of the league's most explosive offenses. Quarterback Erin Kelley has thrown 17 touchdowns with a 92.2 passer rating, while receiver Jacqueline Radford (342 yards, 8 TDs) is having a breakout season. Running back Paige Kuplic adds 481 rushing yards and 6 TDs on the ground. The Vixen's defense, led by Britt Peterson's superb punt return game (185 yards, 1 TD), is capable of shutting down any opponent when it matters most."
+    narrative: "Minnesota showed they are ready for anyone after rolling over Tampa Bay 55-21 in Week 7, concluding their regular season at 5-1. Sporting 262 total points, the Vixen's offense ranks among the elite. Quarterback Erin Kelley has powered the attack with 17 touchdowns and a solid 92.2 rating, benefiting from receiver Jacqueline Radford's breakout season. Tailback Paige Kuplic provides consistent punch on the ground with 481 yards and six scores. Alongside their offensive fire, specialist Britt Peterson generates short fields with her excellent punt return game, making Minnesota a complete-team threat."
   },
   {
     rank: 4,
@@ -252,7 +251,7 @@ export const WFA_TEAMS: WfaTeam[] = [
     nextMatch: "vs Tampa Bay Inferno (June 13)",
     details: "Amanda Congialdi (QB): 1,273 yards, 15 TD, 114.9 rating. Navia Howell (WR): 447 yards, 8 TD (WFA leading receiver). #1 in WFA total offense (2,084 yards).",
     statsSummary: "Three-time WFA Champions with the #1 ranked offense in the league.",
-    narrative: "D.C. sits at 4-1, proving their championship pedigree as three-time WFA Champions (2006 NWFA, 2015 WFA, 2016 WFA). Quarterback Amanda Congialdi continues her MVP-caliber season with 1,273 passing yards, 15 touchdowns, and a league-leading 114.9 passer rating. Receiver Navia Howell (447 yards, 8 TDs) is the league's leading receiver, while the Divas rank #1 in offensive yardage at 2,084 total yards. D.C. proved they can beat anyone in a shootout, and their explosive offense combined with championship experience makes them a legitimate threat to add another title to their storied history."
+    narrative: "Holding a strong 4-1 record, the D.C. Divas continue to exhibit the composure of their storied championship legacy. Masterful quarterback Amanda Congialdi is orchestrating a legendary campaign with 1,273 yards, 15 touchdowns, and a league-leading 114.9 passer rating. Wideout Navia Howell anchors the passing attack as the league's premier receiver, pushing the team to the top spots in absolute yardage. Able to outpace team defenses in any vertical track, the Divas possess both the scoring firepower and late-postseason experience to mount another serious title run."
   },
   {
     rank: 5,
@@ -265,7 +264,7 @@ export const WFA_TEAMS: WfaTeam[] = [
     nextMatch: "vs Cincinnati Cougars (June 13)",
     details: "Marcelina Chavez (QB): 515 yards, 5 TD. Ellisyn Knapo (RB): 708 yards, 8 TD (WFA leading rusher). Kaitlain Niedermeyer (LB): leader in points allowed (17.4).",
     statsSummary: "Ranked 5th in scoring defense. Took narrow 33-29 loss to D.C.",
-    narrative: "Pittsburgh took their first loss of the season in Week 7 to D.C. 33-29, dropping to 4-1 but still poised for a historic first-ever appearance in the WFA National Championship Game. The Passion have built something special in Western Pennsylvania with a balanced offensive attack led by quarterback Marcelina Chavez (515 yards, 5 TDs) and running back Ellisyn Knapo (league-leading 708 rushing yards, 8 TDs). Linebacker Kaitlain Niedermeyer anchors a Passion defense that ranks 5th in points allowed at 17.4 per game. Pittsburgh has proven they belong among the league's top contenders and could surprise everyone by winning the entire championship this year."
+    narrative: "Even after a narrow 33-29 setback in Week 7 against D.C., Pittsburgh maintains an exceptional 4-1 footing and is well-positioned for a historic run. The Western Pennsylvania powerhouse balances a lethal ground game with efficient passing: Marcelina Chavez has thrown for 515 yards, while elite running back Ellisyn Knapo sits atop the league charts with 708 rushing yards and eight scores. Defender Kaitlain Niedermeyer anchors a rigid squad that yields just 17.4 points per contest, making the Passion a genuine championship underdog."
   },
   {
     rank: 6,
@@ -278,7 +277,7 @@ export const WFA_TEAMS: WfaTeam[] = [
     nextMatch: "at Salt Lake City Wildcats (June 13)",
     details: "Tania Yarely Guzman (QB): 377 passing yards, 6 TDs. Sean Caldwell (DE): 3 sacks. Overall #2 ranked scoring defense.",
     statsSummary: "Averages 10.2 points allowed per game with an stellar secondary.",
-    narrative: "Cali War has positioned themselves as a premium title contender inside the Pacific region through Week 7. Possessing the WFA PRO #2 ranked scoring defense, they have conceded just 51 points through five matches. On offense, quarterback Tania Yarely Guzman has operated efficiently with 377 passing yards and 6 touchdowns, while defensive end Sean Caldwell (3 sacks) leads a vicious and fast-closing trench group that routinely disrupts opponents' timing routes."
+    narrative: "Entering Week 7 with a 4-1 mark, Cali War has firmly established itself as a elite contender in the Pacific theater. Operating with the second-best scoring defense in WFA PRO, they have allowed a stingy 51 points over five games. Quarterback Tania Yarely Guzman directs a balanced attack, throwing for 377 yards and six touchdowns, while defensive end Sean Caldwell applies pocket-collapsing pressure with three sacks to anchor an aggressive and fast front seven."
   },
   {
     rank: 7,
@@ -291,7 +290,7 @@ export const WFA_TEAMS: WfaTeam[] = [
     nextMatch: "at Mile High Blaze (June 13)",
     details: "Jesse Felker (QB): 251 passing yards, 4 TDs. Jesse Felker: 290 rushing yards, 6 TDs. Active two-way leader.",
     statsSummary: "Averages 31.4 PPG. Strong presence on both rushing and passing fronts.",
-    narrative: "Nevada Storm enters the late season with a solid 3-2 record, showing high offensive capability, averaging 31.4 points per game. Offense is heavily centered around two-way threat Jesse Felker, who has thrown for 251 yards and 4 touchdowns while rushing for 290 yards and another 6 scores. Nevada sits as a dark horse that can score with any team in the league when their quick-passing game is synchronized."
+    narrative: "Boasting a productive 3-2 showing, the Nevada Storm enter the closing weeks averaging an impressive 31.4 points per game. The offense revolves around individual playmaker Jesse Felker, whose dual-threat capability includes 251 passing yards and four touchdowns along with 290 rushing yards and six additional touchdowns on the ground. When their quick-tempo game is in sync, the Storm can match any high-scoring offense in the country."
   },
   {
     rank: 8,
@@ -304,7 +303,7 @@ export const WFA_TEAMS: WfaTeam[] = [
     nextMatch: "at Austin Outlaws (June 13)",
     details: "Christina Jaques (QB): 758 passing yards, 7 TDs. Rocket Parker (RB) statistical anomaly: 43 TDs on league records.",
     statsSummary: "Explosive passing attack with high vertical capability.",
-    narrative: "Houston Energy stands at 2-3 but poses a continuous threat through their dynamic vertical passing attack. Quarterback Christina Jaques is among the league class with 758 passing yards and 7 luxury touchdowns on only 68 attempts. Additionally, receiver Rocket Parker has accumulated 316 receiving yards and is credited with an astonishing 43 touchdowns in cumulative league scoring lists—marking a historical statistical standout."
+    narrative: "Despite a 2-3 record, Houston Energy remains a dangerous matchup due to their explosive passing concepts. Quarterback Christina Jaques excels in vertical schemes, throwing for 758 yards and seven touchdowns on just 68 passes. In the receiving corps, standout target Rocket Parker has amassed 316 yards and continues to rewrite the record books with 43 historic career touchdowns, keeping Houston's offense highly potent."
   },
   {
     rank: 9,
@@ -317,7 +316,7 @@ export const WFA_TEAMS: WfaTeam[] = [
     nextMatch: "at Pittsburgh Passion (June 13)",
     details: "Pasha Rivers (LB): 57 combined tackles (29 solo, 28 assists). Jeanean Church (LB): 50 combined tackles (32 solo). Dominant linebacker duo.",
     statsSummary: "Gritty squad anchored by the league's top two tacklers.",
-    narrative: "The Cincinnati Cougars are a highly physical, defensive-minded group that stays highly competitive in every matchup. While their 2-3 record shows some narrow defeats, they boast the most prolific tackling tandem in WFA PRO: linebackers Pasha Rivers, who leads the league with 57 combined tackles, and Jeanean Church, with 50. Their defensive front is highly disciplined and excels at stopping the run, making them a tough challenge for any offense."
+    narrative: "Known for their physical, gritty identity, the 2-3 Cincinnati Cougars keep every contest close behind a stellar defensive backbone. The crew features the most prolific linebanking duo in the WFA, with Pasha Rivers leading the league at 57 total tackles and partner Jeanean Church registering 50. Their highly disciplined front seven excels at shutting down running lanes, keeping opponents in tough, low-scoring duals."
   },
   {
     rank: 10,
@@ -330,7 +329,7 @@ export const WFA_TEAMS: WfaTeam[] = [
     nextMatch: "vs Nevada Storm (June 13)",
     details: "NaQua Barnett: 216 kickoff return yards on 12 returns. Tonii Triplett: 133 return yards, 30 tackles, 2 pass deflections.",
     statsSummary: "Developing team with exceptional kickoff-return numbers.",
-    narrative: "Mile High Blaze is a resilient team building foundation for future WFA PRO campaigns. Despite a 2-3 record and playing some of the toughest defensive fronts, the Blaze have shown outstanding special teams play, boasting NaQua Barnett's 216 kickoff return yards and Tonii Triplett's 133 return yards. Their defensive secondary continues to improve, led by Triplett's 30 combined tackles."
+    narrative: "The 2-3 Mile High Blaze continue to lay down a solid foundation while competing in one of the league's toughest divisions. Even against elite front defenses, the Blaze have sparkled on special teams, featuring NaQua Barnett's 216 kickoff return yards and Tonii Triplett's 133 return yards. Backed by Triplett's 30 tackles, their defensive secondary is maturing rapidly, making them a tough team to overlook."
   },
   {
     rank: 11,
@@ -343,6 +342,6 @@ export const WFA_TEAMS: WfaTeam[] = [
     nextMatch: "at D.C. Divas (June 13)",
     details: "Octavia Loll (RB/QB): 291 rushing yards, 2 TDs. Meg Joyce: 188 kickoff return yards on 13 returns. Special teams standout.",
     statsSummary: "Averages 20.4 points per game with explosive special-teams return capabilities.",
-    narrative: "Tampa Bay Inferno continues to showcase incredible grit through the 2026 campaign. Possessing a 1-4 record, the Inferno are offense-driven, powered by Octavia Loll's 291 rushing yards and multi-threat playmaking. Special teams ace Meg Joyce has provided fantastic field position with 188 return yards, helping Inferno keep up with heavily favored opponents."
+    narrative: "Tampa Bay shows exceptional grit through their 1-4 campaign, continuing to challenge opponents with a resilient offense. Multi-talented Octavia Loll anchors the offensive attack with 291 rushing yards, while return specialist Meg Joyce provides crucial field positioning with 188 total return yards. This special teams excellence keeps the Inferno highly competitive even against heavily favored units."
   }
 ];
