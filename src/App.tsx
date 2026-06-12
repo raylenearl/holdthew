@@ -174,7 +174,7 @@ export default function App() {
             </div>
 
             <p className="font-serif text-sm text-gray-600 leading-relaxed mb-8">
-              Please submit any questions, comments, corrections, or suggestions using our form below. Our publishing staff reviews all correspondence.
+              Please submit any questions, comments, corrections, or suggestions using our form below.
             </p>
 
             <form onSubmit={handleFeedbackSubmit} className="space-y-6">
