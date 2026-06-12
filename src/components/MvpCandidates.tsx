@@ -69,7 +69,7 @@ export default function MvpCandidates() {
           Season MVP Contenders
         </h2>
         <p className="font-mono text-[10px] uppercase tracking-wider text-gray-400 mt-2">
-          THE SUPERSTARS WHO REDEFINED THE STANDARD OF CAMPAIGN PLAY THROUGH 2026
+          THE SUPERSTARS WHO REDEFINED THE STANDARD OF PLAY THROUGH 2026
         </p>
       </div>
 

@@ -66,7 +66,8 @@ export default function ChampionshipMatchup() {
     { label: "Postseason Shutouts", rebellion: "2", spartans: "0", winningSide: "rebellion" },
     { label: "Sacks Leader (Postseason)", rebellion: "5.0 Sacks", spartans: "7.5 Sacks", winningSide: "spartans" },
     { label: "IX Cup Titles", rebellion: "0", spartans: "5", winningSide: "spartans" },
-    { label: "Consecutive Final Appearances", rebellion: "1st", spartans: "7th", winningSide: "spartans" }
+    { label: "WNFC Conference Championships", rebellion: "2", spartans: "7", winningSide: "spartans" },
+    { label: "Consecutive IX Cup Appearances", rebellion: "1st", spartans: "7th", winningSide: "spartans" }
   ];
 
   return (

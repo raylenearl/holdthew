@@ -169,12 +169,12 @@ export default function App() {
             <div className="border-b border-black/10 pb-4 mb-6 flex items-center justify-between">
               <h3 className="font-display italic font-black text-[#1A1A1A] text-xl sm:text-3xl tracking-tight flex items-center gap-2">
                 <MessageSquare className="w-5 h-5 text-[#8b0000]" />
-                <span>Write to the Editorial Desk.</span>
+                <span>Contact Hold The W</span>
               </h3>
             </div>
 
             <p className="font-serif text-sm text-gray-600 leading-relaxed mb-8">
-              Please submit any questions, comments, corrections, or suggestions using our editorial dispatch form below. Our publishing staff reviews all correspondence.
+              Please submit any questions, comments, corrections, or suggestions using our form below. Our publishing staff reviews all correspondence.
             </p>
 
             <form onSubmit={handleFeedbackSubmit} className="space-y-6">

@@ -151,7 +151,7 @@ export default function WfaProStandings() {
                       </div>
 
                       <div className={`col-span-2 font-mono text-xs font-black ${team.pointDiff > 0 ? "text-green-600" : "text-[#8b0000]"}`}>
-                        +{team.pointDiff}
+                        {team.pointDiff > 0 ? `+${team.pointDiff}` : team.pointDiff}
                       </div>
                     </div>
 
