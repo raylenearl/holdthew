@@ -239,7 +239,7 @@ export default function App() {
                       className="bg-black hover:bg-black/90 text-[#F2F0EA] text-[10px] font-mono uppercase tracking-[0.2em] font-bold py-3.5 px-8 rounded-none cursor-pointer transition-all flex items-center gap-2 select-none border border-black"
                     >
                       <Send className="w-3.5 h-3.5 text-[#F2F0EA]/70" />
-                      <span>Transmit Letter</span>
+                      <span>SEND</span>
                     </button>
                   )}
                 </AnimatePresence>

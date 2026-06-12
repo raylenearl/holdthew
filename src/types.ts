@@ -26,7 +26,7 @@ export interface MvpCandidate {
   team: string;
   logoUrl: string;
   position: string;
-  category: "Offense" | "Defense";
+  category: "Offense" | "Defense" | "Both";
   statsSummary: string;
   narrative: string;
   keyStats: {

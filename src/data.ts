@@ -188,7 +188,7 @@ export const MVP_CANDIDATES: MvpCandidate[] = [
     team: "Kansas City Glory",
     logoUrl: "https://www.hostedlogos.com/football/wnfc/Glory_logo_large.png",
     position: "Multi-Position Star",
-    category: "Offense", // Classified under offense but plays defense too!
+    category: "Both", // Classified under offense but plays defense too!
     statsSummary: "7 regular-season TDs • 5 INTs • 52 combined tackles • 375 total return yards",
     narrative: "Kassidy Snowden engineered a historic, multi-phase regular season, putting up extraordinary statistical lines for the Kansas City Glory across all three units of the game. Showing rare athletic versatility, she scored seven total touchdowns in several distinct ways: two rushing scores, two interception returns, two kickoff returns, and one punt return. Defensively, she was a relentless force on the field, logging 52 tackles, forcing a fumble, and leading the team with five crucial takeaways. She followed this up with a heroic postseason performance against the Utah Falconz, stepping under center to score both of Kansas City's touchdowns while registering a critical forced fumble and recovery on defense, cementing her status as one of the most uniquely impactful players in WNFC history.",
     keyStats: [

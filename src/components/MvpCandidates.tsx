@@ -55,7 +55,9 @@ export default function MvpCandidates() {
       candidate.position.toLowerCase().includes(searchQuery.toLowerCase());
     
     const matchesCategory = 
-      categoryFilter === "All" || candidate.category === categoryFilter;
+      categoryFilter === "All" || 
+      candidate.category === categoryFilter || 
+      candidate.category === "Both";
 
     return matchesSearch && matchesCategory;
   });
@@ -157,7 +159,13 @@ export default function MvpCandidates() {
                         </div>
                         <div className="w-full bg-[#D9D7D0] h-1.5 rounded-none overflow-hidden">
                           <div 
-                            className={`h-full ${candidate.category === "Offense" ? "bg-amber-600" : "bg-black"}`}
+                            className={`h-full ${
+                              candidate.category === "Offense" 
+                                ? "bg-amber-600" 
+                                : candidate.category === "Both"
+                                ? "bg-[#8b0000]"
+                                : "bg-black"
+                            }`}
                             style={{ width: `${stat.percentOfMax}%` }}
                           ></div>
                         </div>
